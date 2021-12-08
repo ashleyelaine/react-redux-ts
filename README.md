@@ -1,2 +1,2 @@
 # redux-ts-starter
-Starter template for Redux + Typescript projects
+Starter template for React Redux + Typescript projects
